@@ -6,9 +6,9 @@ Central repository for [GSPLauncher](GSPLauncher/README.md), [GSPGames](GSPGames
 ## Installation
 
 1. Login via `ssh` to GameShell
-2. Clone this repository in `/home/cpi`
+2. Clone this repository in `/home/cpi/games/`
    ```bash
-    git clone https://github.com/pleft/GSP.git
+    git clone https://github.com/cuu/GSP.git
    ```
 3. `cd` into the `GSP/` directory and run:
    ```bash
