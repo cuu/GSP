@@ -11,5 +11,10 @@
             "title": "Invaders",
             "directory": "invaders/"
         }
+        ,
+        {
+            "title": "GYATM",
+            "directory": "gyatm/"
+        }
     ]
 }
